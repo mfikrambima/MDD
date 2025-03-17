@@ -1,0 +1,19 @@
+# Software Requirement Specification (SRS) - MDD
+
+## 1. Latar Belakang
+Modul Manajemen Data Dosen dibuat untuk membantu universitas dalam mengelola data dosen, termasuk profil, jadwal mengajar, dan evaluasi kinerja.
+
+## 2. Tujuan
+- Memudahkan administrasi dalam mengelola informasi dosen.
+- Memastikan data dosen selalu terbaru dan akurat.
+- Membantu proses evaluasi kinerja dosen secara efisien.
+
+## 3. Kebutuhan Fungsional
+- CRUD data dosen (profil, NIDN/NIP, bidang keahlian).
+- Manajemen jadwal mengajar dosen.
+- Evaluasi kinerja dosen berdasarkan berbagai parameter.
+
+## 4. Kebutuhan Non-Fungsional
+- Sistem harus aman dan memiliki autentikasi pengguna.
+- Harus bisa diakses dengan cepat dan responsif di berbagai perangkat.
+s
